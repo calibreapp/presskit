@@ -12,7 +12,7 @@ Calibre must be in title case at all times.
 
 ## Brand Logos & Resources
 
-[Individual assets available here](Logo). Otherwise [download a zip of this repository.](https://github.com/calibreapp/presskit/archive/master.zip) 
+[Individual assets available here](Assets). Otherwise [download a zip of this repository.](https://github.com/calibreapp/presskit/archive/master.zip) 
 
 ## Social
 

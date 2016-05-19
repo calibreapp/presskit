@@ -1,30 +1,19 @@
-# Press kit
+# Calibre
 
+* Website: https://calibreapp.com
+* Contact: hello@calibreapp.com
+* Tag: Powerful analytics that give the insights you need to improve customer experience.
 
-## Logos & Resources
+--
 
-### Brand mark
+## Name
 
-* [SVG](/Logo/Logo.svg)
-* [PNG, Black](/Logo/Logo-black.png)
-* [PNG, White](/Logo/Logo-white.png)
+Calibre must be in title case at all times.
 
-### Logotype
+## Brand Logos & Resources
 
-* [SVG](/Logo/Logotype.svg)
-* [PNG, Black](/Logo/Logotype-black.png)
-* [PNG, White](/Logo/Logotype-white.png)
+[Individual assets available here](Logo). Otherwise [download a zip of this repository.](https://github.com/calibreapp/presskit/archive/master.zip) 
 
-### Avatar (For use on Social media)
+## Social
 
-* *Do:* Add rounded corners (3px, or fit centered within a circle)
-* *Do not:* Stretch or recolour
-
-![](avatar.png)
-
-* [PNG](avatar.png)
-
-
-## Screenshots
-
-![](Screenshots/site-mock.png)
+* Twitter https://twitter.com/calibreapp

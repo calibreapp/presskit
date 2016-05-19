@@ -2,6 +2,7 @@
 
 * Website: https://calibreapp.com
 * Contact: hello@calibreapp.com
+* Twitter https://twitter.com/calibreapp
 * Tag: Powerful analytics that give the insights you need to improve customer experience.
 
 --
@@ -13,7 +14,3 @@ Calibre must be in title case at all times.
 ## Brand Logos & Resources
 
 [Individual assets available here](Assets). Otherwise [download a zip of this repository.](https://github.com/calibreapp/presskit/archive/master.zip) 
-
-## Social
-
-* Twitter https://twitter.com/calibreapp

@@ -25,6 +25,6 @@
 * [PNG](avatar.png)
 
 
-### Screenshots
+## Screenshots
 
 ![](Screenshots/site-mock.png)

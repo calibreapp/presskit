@@ -31,6 +31,8 @@ The Calibre logo should be displayed in its unaltered form. [Download a ZIP arch
 * [SVG, Light](/assets/logo/logotype-light.svg)
 * [PNG, Light](/assets/logo/logotype-light.png)
 
-### Licence
+---
+
+## License
 
 The assets are owned by Calibre but are freely available to publications. It is strongly encouraged that you drop an email to hello@calibreapp.com before use. 

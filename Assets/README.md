@@ -1,27 +1,17 @@
-## Logos & Resources
+## Logos and Resources
 
 ### Brand mark
 
-* [SVG](/Logo/Logo.svg)
-* [PNG, Black](/Logo/Logo-black.png)
-* [PNG, White](/Logo/Logo-white.png)
+* [SVG, Blue](/logo/mark-blue.svg)
+* [PNG, Blue](/logo/mark-blue.png)
+* [SVG, Dark](/logo/mark-dark.svg)
+* [PNG, Dark](/logo/mark-dark.png)
+* [SVG, Light](/logo/mark-light.svg)
+* [PNG, Light](/logo/mark-light.png)
 
 ### Logotype
 
-* [SVG](/Logo/Logotype.svg)
-* [PNG, Black](/Logo/Logotype-black.png)
-* [PNG, White](/Logo/Logotype-white.png)
-
-### Avatar (For use on Social media)
-
-* *Do:* Add rounded corners (3px, or fit centered within a circle)
-* *Do not:* Stretch or recolour
-
-![](avatar.png)
-
-* [PNG](avatar.png)
-
-
-## Screenshots
-
-![](Screenshots/site-mock.png)
+* [SVG, Dark](/logo/logotype-dark.svg)
+* [PNG, Dark](/logo/logotype-dark.png)
+* [SVG, Light](/logo/logotype-light.svg)
+* [PNG, Light](/logo/logotype-light.png)
